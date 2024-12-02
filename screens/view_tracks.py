@@ -1,7 +1,6 @@
 import tkinter as tk
 import tkinter.scrolledtext as tkst
 from PIL import Image, ImageTk
-from holoviews import output
 
 import track_library as lib
 import font_manager as fonts
