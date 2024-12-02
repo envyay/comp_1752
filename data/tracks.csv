@@ -1,0 +1,7 @@
+track_number,name,artist,rating,play_count,artist_image
+01,Another Brick in the Wall,Pink Floyd,5,30,image/pink_floyd.png
+02,Stayin' Alive,Bee Gees,5,4,image/bee_gees.png
+03,High Way To Hell,AC/DC,5,0,image/ac_dc.png
+04,Shape of You,Ed Sheeran,1,1,image/ed_sheeran.png
+05,Someone Like You,Adele,3,1,image/adele.png
+06,The Emptiness Machine,Linkin Park,5,0,image/linkin_park.png
